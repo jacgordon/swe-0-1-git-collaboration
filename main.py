@@ -12,3 +12,4 @@ print(
     "I opened my journal and for my intention of the day, I wrote that I wanted to leave the house earlier in the future"
 )
 print("In leadership seminar, I worked on my identity map assignment")
+print("During our work block, I worked on technical assignments and collaborated with other fellows")
