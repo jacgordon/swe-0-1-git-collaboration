@@ -16,3 +16,4 @@ print(
     "During our work block, I worked on technical assignments and collaborated with other fellows"
 )
 print("During lunch I stopped by the bagel pub and ate a supernova")
+print("When I got back to campus, I went to the SWE Seminar and made sure that I was attentive and took notes")
