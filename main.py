@@ -8,4 +8,7 @@ print(
 print(
     "I apologized to my instructor for being late and I sat down for the end of mindful morning"
 )
-print("I opened my journal and for my intention of the day, I wrote that I wanted to leave the house earlier in the future")
+print(
+    "I opened my journal and for my intention of the day, I wrote that I wanted to leave the house earlier in the future"
+)
+print("In leadership seminar, I worked on my identity map assignment")
