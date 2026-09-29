@@ -22,3 +22,4 @@ print(
 print(
     "It was time for stand down as I recapped on my day today and got ready to go home"
 )
+print("After instuction ended, I walked to my train and thankfully it wasn't delayed. I got on the train, went home, and worked on assignments until I fell asleep")
